@@ -41,8 +41,6 @@
 
 _In the bottom right corner of AirTable, there are short guidelines on the basic steps (see below for how it might look). Each color teaches you or reviews how to do certain things in AirTable._
 
-
-
 ###**Requests Tab**
 
 - ID - Unique identification given to the request, automatically created when a new entry is added
